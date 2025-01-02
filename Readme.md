@@ -5,6 +5,7 @@
 ## UC: [Villageslayer](https://www.unknowncheats.me/forum/members/3298005.html)
 ---
 - ## [Installation](https://www.youtube.com/watch?v=FgNEciqHZFE) <- Youtube Turorial
+- ## [GHUB Download](https://www.unknowncheats.me/forum/downloads.php?do=file&id=39879) <- Ghub Download
 ---
 ## [Usage:](#usage)
 
